@@ -1,0 +1,15 @@
+---
+abstract: "Loads and imports the default exported symbols of a list of modules\r"
+author:
+  - 'Sean Blanton <sean@blanton.com>'
+build_requires: {}
+configure_requires:
+  ExtUtils::MakeMaker: 6.30
+dynamic_config: 0
+generated_by: 'Dist::Zilla version 4.300026, CPAN::Meta::Converter version 2.120921'
+license: perl
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.4.html
+  version: 1.4
+name: Namespace-Pollute
+version: 0.001
