@@ -1,7 +1,7 @@
 
 
 This archive contains the distribution Namespace-Pollute,
-version 0.001:
+version 0.002:
 
   Loads and imports the default exported symbols of a list of modules
 

@@ -1,4 +1,7 @@
 package Namespace::Pollute;
+{
+  $Namespace::Pollute::VERSION = '0.002';
+}
 # ABSTRACT: Loads and imports the default exported symbols of a list of modules
 
 use Exporter;
@@ -55,7 +58,7 @@ Namespace::Pollute - Loads and imports the default exported symbols of a list of
 
 =head1 VERSION
 
-version 0.001
+version 0.002
 
 =head1 SYNOPSIS
 
